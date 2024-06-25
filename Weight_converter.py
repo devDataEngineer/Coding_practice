@@ -8,6 +8,6 @@ elif measurement == 'L':
     result = weight*0.45
     print(f'Weight in Kg is {result}')
 else: 
-    print ('You have provided incorrect input')
+    print ('You have provided an incorrect input')
     
     
