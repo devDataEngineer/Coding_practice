@@ -7,7 +7,6 @@ while True:
         print("""
 type 'start' - to start the car
 'stop' - to stop the car
-code code code
 'quit' - to exit""")
     elif command == 'start' and car_status == 'initial' or command == 'start' and car_status == 'stopped':
         print('Car started, ready to go!')
