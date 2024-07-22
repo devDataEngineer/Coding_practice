@@ -2,7 +2,7 @@
 second=input('Enter a second number ')
 result = int(first) + int(second)
 print(result)
-course= 'Pythin for Beginners'''
+
 
 
 weight=float(input('Weight? '))
